@@ -1,11 +1,11 @@
 ### Hi there! 👋 I am Stephen Adu.
 
-A Full stack web and software developer specializing in Javascript technologies and other frameworks listed in the Toolbox below.
+A Full stack web and software developer specializing in Javascript technologies and frameworks.
 
 
-### Toolbox 🧰
+### Technologies/Tools 🧰
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html svg image" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3 svg image" width="50px" height="50px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript svg image" width="40px" height="40px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react svg image" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="javascript svg image" width="50px" height="50px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="javascript svg image" width="50px" height="50px"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html svg image" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3 svg image" width="50px" height="50px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript svg image" width="40px" height="40px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript logo" width="40px" height="40px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react svg image" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="javascript svg image" width="50px" height="50px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js svg image" width="50px" height="50px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="vs code svg image" width="50px" height="50px" />
 
 <!--
 **STEP0HEN/STEP0HEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
