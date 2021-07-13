@@ -1,6 +1,6 @@
 ### Hi there!     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"/> I am Stephen Adu.
 
-A Full stack web and software developer specializing in Javascript technologies and frameworks.
+A Full stack web and software developer specializing in Javascript technologies and frameworks. <hr/>
 
 
 ### Technologies/Tools 🧰
