@@ -1,12 +1,5 @@
 ### Hi there!     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"/> I am Stephen Adu.
 
-A Full stack web and software developer specializing in Javascript technologies and frameworks. <hr/>
-
-
-### Technologies/Tools 🧰
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html svg image" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3 svg image" width="50px" height="50px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript svg image" width="40px" height="40px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript logo" width="40px" height="40px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react svg image" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm svg" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql svg image" width="70px" height="70px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js svg image" width="70px" height="70px"/> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="vs code svg image" width="70px" height="70px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git svg image" with="70px" height="70px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn svg image" width="70px" heght="70px" />
-
 <!--
 **STEP0HEN/STEP0HEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +14,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing websites, mobile applications and software solutions and quick hacks.
+- 🎓 &nbsp; Studied Full Stack Web Development at HackYourFuture Copenhagen.
+- 💼 &nbsp; Currently working as a software developer at BlueBenu.
+- 🌱 &nbsp; Learning everything related to Web and software dev to improve and be an even better developer everyday.
+
+<img alt="funny coding gif" src="https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish.webp" align="right"/>
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
+  ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=Material-UI&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🌐 &nbsp;
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![KnexJS](https://img.shields.io/badge/-KnexJS-333333?style=flat&logo=knexjs)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Github](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/STEP0HEN">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=STEP0HEN&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STEP0HEN&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3 align="center"> 🤝🏻 &nbsp;Hit me up on </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/stephen-adu-94584a96/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Stephen%20Adu%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:stephenkwesiadu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-stephenkwesiadu@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
