@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💼 &nbsp; Currently working as a software developer at BlueBenu.
 - 🌱 &nbsp; Learning everything related to Web and software dev to improve and be an even better developer everyday.
 
-<img alt="funny coding gif" src="https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish.webp" align="right"/>
+<img alt="funny coding gif" src="https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish.webp" align="right" width="200px" height="200px"/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![KnexJS](https://img.shields.io/badge/-Knex.js-333333?style=flat&logo=knex.js)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Github](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
