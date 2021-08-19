@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp;
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
-  ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -36,12 +36,13 @@ Here are some ideas to get you started:
   ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=Material-UI&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- 🌐 &nbsp;
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+  ![Npm](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm)
+  ![Yarn](https://img.shields.io/badge/-yarn-333333?style=flat&logo=yarn)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![KnexJS](https://img.shields.io/badge/-KnexJS-333333?style=flat&logo=knexjs)
+  ![KnexJS](https://img.shields.io/badge/-Knex.js-333333?style=flat&logo=knex.js)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Github](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -60,6 +61,6 @@ Here are some ideas to get you started:
 <h3 align="center"> 🤝🏻 &nbsp;Hit me up on </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/stephen-adu-94584a96/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Stephen%20Adu%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:stephenkwesiadu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-stephenkwesiadu@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/stephen-adu-94584a96/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Stephen%20Adu%20-blue?style=social&logo=linkedin"></a>
+<a href="mailto:stephenkwesiadu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-stephenkwesiadu@gmail.com-blue?style=social&logo=gmail"></a>
 </p>
