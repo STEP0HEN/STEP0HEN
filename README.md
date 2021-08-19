@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 🤔 &nbsp; Exploring new technologies and developing websites, mobile applications and software solutions and quick hacks.
 - 🎓 &nbsp; Studied Full Stack Web Development at HackYourFuture Copenhagen.
 - 💼 &nbsp; Currently working as a software developer at BlueBenu.
-- 🌱 &nbsp; Learning everything related to Web and software dev to improve and be an even better developer everyday.
+- 🌱 &nbsp; Learning everything related to Web and software development to improve and be an even better developer everyday.
 
-<img alt="funny coding gif" src="https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish.webp" align="right" width="200px" height="200px"/>
+<img alt="funny coding gif" src="https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish.webp" align="right" width="150px" height="150px"/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
