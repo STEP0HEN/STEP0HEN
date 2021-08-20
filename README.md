@@ -1,4 +1,4 @@
-### Hi there!     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"/> I am Stephen Adu.
+ ### Hi there!     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"/> I am Stephen Adu.
 
 <!--
 **STEP0HEN/STEP0HEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💼 &nbsp; Currently working as a software developer at BlueBenu.
 - 🌱 &nbsp; Learning everything related to Web and software development to improve and be an even better developer everyday.
 
-<img alt="funny coding gif" src="https://thumbs.gfycat.com/ShinyPlaintiveAsiantrumpetfish.webp" align="right" width="150px" height="150px"/>
+<img alt="funny coding gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FgG6OcTSRWaSis%2Fgiphy.gif&f=1&nofb=1" align="right" width="150px" height="150px"/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
