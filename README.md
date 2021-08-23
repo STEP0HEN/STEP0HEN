@@ -1,4 +1,5 @@
- ### Hi there!     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"/> I am Stephen Adu.
+ ### Hi there!     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"/> Welcome to my github repo! 
+Read on to get to know me a little better and get in touch via mail or linkedIn if you have some questions or projects you would like me to contribute to. 🙂
 
 <!--
 **STEP0HEN/STEP0HEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,8 @@ Here are some ideas to get you started:
 -->
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+  
+  
 - 🤔 &nbsp; Exploring new technologies and developing websites, mobile applications and software solutions and quick hacks.
 - 🎓 &nbsp; Studied Full Stack Web Development at HackYourFuture Copenhagen.
 - 💼 &nbsp; Currently working as a software developer at BlueBenu.
