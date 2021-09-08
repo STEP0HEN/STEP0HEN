@@ -1,5 +1,5 @@
  ### Hi there!     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"/> Welcome to my github repo! 
-Read on to get to know me a little better and get in touch via mail or linkedIn if you have some questions or projects you would like me to contribute to. 🙂
+Read on to find out what I'm up to and what my tech stack is.. 🙂
 
 <!--
 **STEP0HEN/STEP0HEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
