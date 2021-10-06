@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <img alt="funny coding gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FgG6OcTSRWaSis%2Fgiphy.gif&f=1&nofb=1" align="right" width="150px" height="150px"/>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack </h3>
 
 - 💻 &nbsp;
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
