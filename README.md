@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 - 🌱 &nbsp; Learning everything related to Web and software development to improve and be an even better developer everyday.
 - 🔭 &nbsp; I’m currently working on creating a Disney+ clone and learning to work with styled component and firebase.
 
-<img alt="funny coding gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FgG6OcTSRWaSis%2Fgiphy.gif&f=1&nofb=1" align="right" width="150px" height="150px"/>
-
 <h3> 🛠 &nbsp;Tech Stack </h3>
 
 - 💻 &nbsp;
