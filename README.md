@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
   
 - 🎓 &nbsp; Studied Full Stack Web Development at HackYourFuture Copenhagen.
-- 💼 &nbsp; Currently working as a software developer at BlueBenu.
+- 💼 &nbsp; Currently working as a software developer at IT Kartellet.
 - 🤔 &nbsp; Exploring new technologies and developing websites, mobile applications and software solutions.
 - 🌱 &nbsp; Learning everything related to Web and software development to improve and be an even better developer everyday.
 - 🔭 &nbsp; I’m currently working on creating a Disney+ clone and learning to work with styled component and firebase.
